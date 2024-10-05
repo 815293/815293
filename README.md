@@ -1,16 +1,25 @@
-## Hi there 👋
+## 815293 (Bowen)
 
-<!--
-**815293/815293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Lang
+#### Proficient
+- 
+#### Learning
+- Java - 8%
+- Rust - 1%
+- HTML - 1%
+- CSS - 1%
+- JS - 1%
+#### Previously Learning
+- Python - 11
+- C - 3%
+- C# - 2%
 
-Here are some ideas to get you started:
+*All percentages indicate proficiency and are entirely arbitrary*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+**815293@seq.org**
+
+### Fun!
+- OS Usage
+  - 70% Debian
+  - 30% Windows
